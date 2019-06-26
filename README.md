@@ -1,1 +1,1 @@
-<img src="apps_img.png" alt="apps"/>
+<img src="apps_img_t.png" alt="apps"/>
